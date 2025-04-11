@@ -1,0 +1,11 @@
+streamlit
+google-generativeai
+PyPDF2
+youtube_transcript_api
+chromadb
+pytesseract
+Pillow
+gTTS
+pdf2image
+langdetect
+graphviz
