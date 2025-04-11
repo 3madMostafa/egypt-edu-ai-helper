@@ -87,4 +87,4 @@ streamlit run main.py
 
 ## 🙋‍♂️ Author
 
-Built by [Your Name] to help students learn better using the power of AI.
+Built by Emad Mostafa to help students learn better using the power of AI.
