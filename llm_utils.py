@@ -6,7 +6,7 @@ from chromadb.utils import embedding_functions
 # -------------------------------------------------------------------
 # Gemini API setup
 # -------------------------------------------------------------------
-GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY") or "REMOVED_API_KEY"
+GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
 genai.configure(api_key=GOOGLE_API_KEY)
 model = genai.GenerativeModel(model_name="models/gemini-1.5-pro")
 
